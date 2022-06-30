@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\twodi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\twodi\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Facades.csproj.AssemblyReference.cache
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Facades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Facades.AssemblyInfoInputs.cache
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Facades.AssemblyInfo.cs
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Facades.csproj.CoreCompileInputs.cache
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\bin\Debug\netstandard2.1\Take.Api.AsanaxAzure.Facades.deps.json
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\bin\Debug\netstandard2.1\Take.Api.AsanaxAzure.Facades.dll
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\bin\Debug\netstandard2.1\Take.Api.AsanaxAzure.Facades.pdb
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\bin\Debug\netstandard2.1\Take.Api.AsanaxAzure.Models.dll
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\bin\Debug\netstandard2.1\Take.Api.AsanaxAzure.Services.dll
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\bin\Debug\netstandard2.1\Take.Api.AsanaxAzure.Models.pdb
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\bin\Debug\netstandard2.1\Take.Api.AsanaxAzure.Services.pdb
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Facades.csproj.CopyComplete
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Facades.dll
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Facades\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Facades.pdb

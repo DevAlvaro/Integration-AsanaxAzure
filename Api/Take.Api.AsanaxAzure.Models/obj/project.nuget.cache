@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVqscRa/nTldtI6XJ4ryzw+bX3WP3LF9sQYSZ0mtOTS+tG2w1JITS0Ezw9AVLECTBQ8dt8fUPW5irRfdLg5+kA==",
+  "success": true,
+  "projectFilePath": "D:\\Alvixx\\Take\\Integração\\DEV\\Take.Api.AsanaxAzure\\Api\\Take.Api.AsanaxAzure.Models\\Take.Api.AsanaxAzure.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\twodi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

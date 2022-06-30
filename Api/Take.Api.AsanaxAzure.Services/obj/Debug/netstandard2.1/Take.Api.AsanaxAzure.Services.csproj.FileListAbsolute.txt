@@ -1,0 +1,10 @@
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Services\bin\Debug\netstandard2.1\Take.Api.AsanaxAzure.Services.deps.json
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Services\bin\Debug\netstandard2.1\Take.Api.AsanaxAzure.Services.dll
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Services\bin\Debug\netstandard2.1\Take.Api.AsanaxAzure.Services.pdb
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Services\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Services.csproj.AssemblyReference.cache
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Services\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Services\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Services.AssemblyInfoInputs.cache
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Services\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Services.AssemblyInfo.cs
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Services\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Services.csproj.CoreCompileInputs.cache
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Services\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Services.dll
+D:\Alvixx\Take\Integração\DEV\Take.Api.AsanaxAzure\Api\Take.Api.AsanaxAzure.Services\obj\Debug\netstandard2.1\Take.Api.AsanaxAzure.Services.pdb

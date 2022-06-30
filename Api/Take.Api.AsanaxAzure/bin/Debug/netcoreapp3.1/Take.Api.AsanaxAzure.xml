@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Take.Api.AsanaxAzure</name>
+    </assembly>
+    <members>
+        <member name="T:Take.Api.AsanaxAzure.Middleware.ErrorHandlingMiddleware">
+            <summary>
+            Wraps all controller actions with a try-catch latch to avoid code repetition
+            </summary>
+        </member>
+        <member name="M:Take.Api.AsanaxAzure.Middleware.ErrorHandlingMiddleware.InvokeAsync(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Invoke Method, to validate requisition errors
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
